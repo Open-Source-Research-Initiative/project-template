@@ -1,8 +1,8 @@
+![OSRI：让工作可追溯。使用 Git 开展研究的初始结构。](../../assets/prism-header.png)
+
 # [项目名称]
 
-> **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/project-template/blob/198dc3deeaf68befa702813e23f6a471fbcaf7bb/README.md)
-
-> 英文页面的视觉识别与模板说明已更新；本译稿需要同步，仍待人工审核。
+> **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/project-template/blob/1950bc5bf5f4104149282cc357309a5affb766a4/README.md)
 
 [English](../../README.md)
 
@@ -16,7 +16,7 @@
 2. 填写下方简要说明，为第一个任务新建一个 issue。
 3. 遵循 [OSRI 研究入门指南（中文待审核译稿）](https://github.com/Open-Source-Research-Initiative/osri/blob/main/translations/zh-Hans/START_HERE.md)。需要帮助时，请使用[问答区（Q&A）](https://github.com/Open-Source-Research-Initiative/.github/discussions/new?category=q-a)。
 
-创建项目后，替换提示文字并删除这些设置步骤。让研究问题和当前工作易于查找。
+创建项目后，替换提示文字并删除这些设置步骤。替换或移除模板页头，其中写有本模板仓库的名称。让项目的问题和当前工作易于查找。
 
 ## 项目简要说明
 
