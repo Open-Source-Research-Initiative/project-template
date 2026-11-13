@@ -1,6 +1,6 @@
 # 参与此项目
 
-> **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/project-template/blob/198dc3deeaf68befa702813e23f6a471fbcaf7bb/CONTRIBUTING.md)
+> **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/project-template/blob/72a57ef6c367d01ff306d85994204924d5178de3/CONTRIBUTING.md)
 
 先阅读项目 README 和第一个任务。你可以提问、建议资料、核查引用、评审、写作、分析、编程或建模。
 

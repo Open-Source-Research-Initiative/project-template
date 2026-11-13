@@ -2,7 +2,7 @@
 
 # [项目名称]
 
-> **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/project-template/blob/1950bc5bf5f4104149282cc357309a5affb766a4/README.md)
+> **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/project-template/blob/72a57ef6c367d01ff306d85994204924d5178de3/README.md)
 
 [English](../../README.md)
 
