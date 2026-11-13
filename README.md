@@ -12,6 +12,8 @@ Use this repository for one coherent research project. It can span several field
 2. Fill in the short brief below and open one issue for the first task.
 3. Follow the [OSRI research guide](https://github.com/Open-Source-Research-Initiative/osri/blob/main/START_HERE.md). Ask for help in [Q&A](https://github.com/Open-Source-Research-Initiative/.github/discussions/new?category=q-a).
 
+The [browser setup guide](https://open-source-research-initiative.github.io/guides/docs/browser-setup/) explains template creation, README editing, and the first issue. You can also ask a maintainer to add your brief or source table. No terminal or agent installation is required.
+
 After creating your project, replace the prompts and remove these setup steps. Replace or remove the template header; it names this repository. Keep the project's question and current work easy to find.
 
 ## Project brief
@@ -30,6 +32,8 @@ After creating your project, replace the prompts and remove these setup steps. R
 - Record data origins and terms in [data/README.md](data/README.md). Add analysis or model files when needed.
 - Use the [writing outline](writing/README.md) to develop a blog, preprint, conference paper, or journal article.
 - Keep contribution credit and material agent assistance in [contributions.md](contributions.md).
+
+Use the [help and review guide](https://open-source-research-initiative.github.io/guides/docs/find-help/) to find collaborators or request review. Discuss roles and authorship as the work develops.
 
 The [task record](research-task.md) is optional. A small correction or source lead needs no full form.
 
