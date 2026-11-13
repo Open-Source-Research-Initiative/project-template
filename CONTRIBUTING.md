@@ -6,4 +6,6 @@ Follow [OSRI-0.1.0](https://github.com/Open-Source-Research-Initiative/osri/blob
 
 Use issues for agreed tasks and pull requests for changes. A maintainer can help if Git is unfamiliar. A person remains responsible for accepting the work and authorizing publication.
 
+Follow the guides for [writing](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/writing-style.md), [translation](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/translation.md), and [visual identity](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/visual-identity.md).
+
 Use [Q&A](https://github.com/Open-Source-Research-Initiative/.github/discussions/new?category=q-a) for help. Contact [Cole](mailto:cole.lyons@pennmedicine.upenn.edu) privately for confidential resource requests or concerns.
