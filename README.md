@@ -1,3 +1,5 @@
+![OSRI: Make the work traceable. A starting structure for research in Git.](assets/prism-header.png)
+
 # [Project title]
 
 English | [简体中文（待审核）](translations/zh-Hans/README.md)
@@ -10,7 +12,7 @@ Use this repository for one coherent research project. It can span several field
 2. Fill in the short brief below and open one issue for the first task.
 3. Follow the [OSRI research guide](https://github.com/Open-Source-Research-Initiative/osri/blob/main/START_HERE.md). Ask for help in [Q&A](https://github.com/Open-Source-Research-Initiative/.github/discussions/new?category=q-a).
 
-After creating your project, replace the prompts and remove these setup steps. Keep its question and current work easy to find.
+After creating your project, replace the prompts and remove these setup steps. Replace or remove the template header; it names this repository. Keep the project's question and current work easy to find.
 
 ## Project brief
 

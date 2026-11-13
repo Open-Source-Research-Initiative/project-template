@@ -2,6 +2,8 @@
 
 > **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/project-template/blob/198dc3deeaf68befa702813e23f6a471fbcaf7bb/README.md)
 
+> 英文页面的视觉识别与模板说明已更新；本译稿需要同步，仍待人工审核。
+
 [English](../../README.md)
 
 [参与此项目](CONTRIBUTING.md)
