@@ -2,7 +2,7 @@
 
 # [项目名称]
 
-> **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/project-template/blob/1950bc5bf5f4104149282cc357309a5affb766a4/README.md)
+> **待审核译稿（draft）** · 译者：Codex · 人工审核：待定 · [英文参考原文](https://github.com/Open-Source-Research-Initiative/project-template/blob/72a57ef6c367d01ff306d85994204924d5178de3/README.md)
 
 [English](../../README.md)
 
@@ -15,6 +15,8 @@
 1. 选择 **Use this template** 创建仓库。管理员可以在 OSRI 下创建，你也可以从自己的账户开始。
 2. 填写下方简要说明，为第一个任务新建一个 issue。
 3. 遵循 [OSRI 研究入门指南（中文待审核译稿）](https://github.com/Open-Source-Research-Initiative/osri/blob/main/translations/zh-Hans/START_HERE.md)。需要帮助时，请使用[问答区（Q&A）](https://github.com/Open-Source-Research-Initiative/.github/discussions/new?category=q-a)。
+
+[浏览器设置指南（中文待审核译稿）](https://open-source-research-initiative.github.io/zh-hans/guides/docs/browser-setup/)说明了如何从模板创建仓库、编辑 README 和创建第一个 issue。你也可以请维护者加入项目简要说明或资料表格。无须终端或安装智能体。
 
 创建项目后，替换提示文字并删除这些设置步骤。替换或移除模板页头，其中写有本模板仓库的名称。让项目的问题和当前工作易于查找。
 
@@ -34,6 +36,8 @@
 - 在 [data/README.md（英文）](../../data/README.md)中记录数据来源与条款。按需添加分析或模型文件。
 - 使用[写作提纲（英文）](../../writing/README.md)撰写博客、预印本、会议论文或期刊论文。
 - 在 [contributions.md（英文）](../../contributions.md)中记录贡献署名和实质性的智能体辅助。
+
+按照[协作与评审指南（中文待审核译稿）](https://open-source-research-initiative.github.io/zh-hans/guides/docs/find-help/)寻找协作者或申请评审。随着工作推进讨论角色与作者署名。
 
 [任务记录（英文）](../../research-task.md)按需使用。小修正或资料线索无须填写完整表单。
 
