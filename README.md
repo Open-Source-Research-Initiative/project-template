@@ -35,4 +35,6 @@ This starter uses [OSRI-0.1.0](https://github.com/Open-Source-Research-Initiativ
 
 You may use your own agent, selected skills, or manual methods. No paid tool bundle is required. A person checks evidence and authorizes acceptance and publication.
 
+Follow the guides for [writing](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/writing-style.md), [translation](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/translation.md), and [visual identity](https://github.com/Open-Source-Research-Initiative/osri/blob/main/governance/visual-identity.md).
+
 Original starter guides use CC BY 4.0; original starter code and configuration use MIT. See [licensing](LICENSE.md). Declare terms for added research materials before sharing them.
