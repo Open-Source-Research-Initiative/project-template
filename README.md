@@ -1,5 +1,7 @@
 # [Project title]
 
+English | [简体中文（待审核）](translations/zh-Hans/README.md)
+
 Use this repository for one coherent research project. It can span several fields and produce several publications.
 
 ## Begin
